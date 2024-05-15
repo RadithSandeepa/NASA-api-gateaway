@@ -1,0 +1,109 @@
+.MuiStack-root{
+    color: orange;
+
+    input{
+        color: orange!important;
+    }
+
+    .MuiFormLabel-root{
+        color: orange;
+    }
+
+    .MuiOutlinedInput-root{
+        color: orange;
+    }
+
+    .MuiSvgIcon-root{
+        color: orange;
+    }
+
+    .MuiOutlinedInput-root {
+        border-color: orange; /* Set initial border */
+    }
+            
+    .MuiOutlinedInput-root:focus-within {
+        border-color: orange; /* Change border color when focused */
+    }
+
+    .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+        border-color: orange; /* Change the border color */
+    }
+      
+    .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+        border-color: orange; /* Change border color on hover */
+    }
+      
+    .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+        border-color: orange; /* Change border color when focused */
+    }
+
+      
+      
+}
+
+.MuiDateCalendar-root,
+.css-1rtg91x-MuiDateCalendar-root {
+  background-color: #0c0c1D; /* Set background color to transparent */
+}
+
+.MuiDateCalendar-root {
+  border: 2px solid orange; /* Set border color to orange */
+}
+
+.MuiDateCalendarHeader-root,
+.css-1lrxoo5-MuiDateCalendarHeader-root {
+  color: orange; /* Set header text color to orange */
+}
+
+.MuiTypography-root {
+  color: orange !important; /* Set all text color to orange */
+}
+
+.MuiButtonBase-root {
+  color: orange; /* Set text color of the input to orange */
+}
+
+.MuiButtonBase-root.MuiPickersDay-root.MuiPickersDay-dayWithMargin {
+    color: orange; /* Set the color of the numbers to orange */
+}
+
+.MuiSvgIcon-root{
+    color: orange;
+}
+  
+.MuiPickersCalendarHeader-label,
+.css-dplwbx-MuiPickersCalendarHeader-label {
+  color: orange; /* Set the color of the header text to orange */
+}
+
+.MuiPickersYear-root .MuiPickersYear-container .MuiPickersYear-yearButton,
+.css-bsbrg-MuiPickersYear-yearButton {
+  color: orange !important; /* Set the color of the year button text to orange */
+}
+
+.MuiButtonBase-root.MuiPickersDay-root.MuiPickersDay-dayWithMargin.MuiPickersDay-today {
+  border: 1px solid orange !important; /* Add border to today's date */
+}
+
+/* Remove border from other dates */
+.MuiButtonBase-root.MuiPickersDay-root.MuiPickersDay-dayWithMargin:not(.MuiPickersDay-today) {
+  border: none !important;
+}
+
+.calendar{
+    padding-top: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+   .btn{
+
+      .fa-circle-check{
+          margin-top: 3px;
+          font-size: 32px;
+          color: orange;
+          cursor: pointer;
+      }
+   }
+}
