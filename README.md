@@ -11,6 +11,7 @@ Welcome to the NASA API Gateway React app! This application allows you to explor
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
+- [Deployment](#deployment)
 
 <a id="setup"></a> 
 ## Setup
@@ -93,3 +94,8 @@ Once the project is running, you can use the interface to explore various NASA A
 <a name="contributing"></a>
  ## Contributing 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
+
+<a name="deployment"></a>
+## Deployment 
+The application is deployed on Netlify and can be accessed at the following link:
+[https://spectacular-creponne-153405.netlify.app](https://spectacular-creponne-153405.netlify.app)
