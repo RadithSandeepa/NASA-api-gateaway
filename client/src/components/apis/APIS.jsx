@@ -40,6 +40,13 @@ const items = [
       desc:"Access breathtaking daily images of the cosmos with NASA's Astronomy Picture of the Day (APOD) API",
       link: "/apod"
   },
+  {
+    id: 6,
+    title:"EPIC",
+    img:"https://epic.gsfc.nasa.gov/archive/natural/2024/05/13/jpg/epic_1b_20240513095527.jpg",
+    desc:"Access stunning daily imagery of Earth with NASA's Earth Polychromatic Imaging Camera (EPIC) API",
+    link: "/epic"
+},
 ]
 
 const Single = ({ item }) => {
